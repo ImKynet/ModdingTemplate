@@ -1,0 +1,20 @@
+[
+  {
+    "modid": "",
+    "name": "",
+    "description": "",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      ""
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [
+
+    ],
+    "dependencies": ["mod_MinecraftForge"]
+  }
+]
